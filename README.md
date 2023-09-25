@@ -1,12 +1,6 @@
-# Nexus Chat Application
+# Chat Application
 
-![Nexus Chat Application](./app/opengraph-image.jpg)
-
-Nexus Chat Application is a modern chat application built with the latest technologies, including Next.js, TypeScript, Tailwind CSS, MongoDB, Prisma, and NextAuth. It features real-time chatting, group creation, profile customization, online status tracking, image uploads, and various authentication methods, including email and social logins with Github, Google, and Twitter. This README will provide comprehensive documentation for setting up, running, and customizing the application.
-
-## Demo
-
-View the live demo at [Nexus Chat Application Demo](https://nexus-dk.vercel.app/)
+This Chat Application is a modern chat application built with the latest technologies, including Next.js, TypeScript, Tailwind CSS, MongoDB, Prisma, and NextAuth. It features real-time chatting, group creation, profile customization, online status tracking, image uploads, and various authentication methods, including email and social logins with Github, Google, and Twitter. This README will provide comprehensive documentation for setting up, running, and customizing the application.
 
 ## Features
 
@@ -33,13 +27,13 @@ View the live demo at [Nexus Chat Application Demo](https://nexus-dk.vercel.app/
 
 ## Installation
 
-Follow these steps to set up the Nexus Chat Application locally:
+Follow these steps to set up the Chat Application locally:
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yodkwtf/nexus-chat-application.git
-cd nexus-chat-application
+git clone https://github.com/ccorte20/Next.js-Tailwind-CSS-Chat.git
+cd chat-application
 ```
 
 2. Install dependencies
